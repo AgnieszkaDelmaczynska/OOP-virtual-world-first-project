@@ -35,7 +35,7 @@ After starting the game, this terminal window appears. The user manual is above.
 
 ![obraz](https://github.com/AgnieszkaDelmaczynska/OOP-virtual-world-first-project/assets/105732925/ab5b0617-041e-4866-b77f-9b0233e74989)
 
-## Completed
+## Completed tasks
 
 - Implementation of the game world and its visualization.
 - Implementation of all mandatory animal species with reproduction,
