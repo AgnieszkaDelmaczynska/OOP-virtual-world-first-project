@@ -1,14 +1,14 @@
 # OOP - Virtual World - first project - 2021
 
-This project is a world simulation with various organisms represented by letters in the console.
+- This project is a world simulation with various organisms represented by letters in the console.
 
-The aim of the project was to improve my understanding of OOP.
+- The aim of the project was to improve my understanding of OOP.
 
-Organisms have different behavior thanks to virtual methods of action and collision.
+- Organisms have different behavior thanks to virtual methods of action and collision.
 
-Base class Organism and its derived classes: Animal and Plant are examples of polymorphism and inheritance. 
+- Base class Organism and its derived classes: Animal and Plant are examples of polymorphism and inheritance. 
 
-All variables inside classes are appropriately encapsulated.
+- All variables inside classes are appropriately encapsulated.
 
 ## Symbols of the organisms on the board
 
@@ -38,8 +38,12 @@ After starting the game, this terminal window appears. The user manual is above.
 ## Completed tasks
 
 - Implementation of the game world and its visualization.
+  
 - Implementation of all mandatory animal species with reproduction,
+  
 - Implementation of all plant species with spread,
+  
 - Implementation of Man moved by keyboard arrows,
+  
 - Implementation of Human's special ability.
 
